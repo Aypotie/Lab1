@@ -9,7 +9,7 @@ while (true) {
 
     let choice = input('Введите фигуру: ');
     if (choice == 1){
-        let aTriangle = Number(input('Введите основание трецгольника:'));
+        let aTriangle = Number(input('Введите основание треугольника:'));
         let bTriangle = Number(input('Введите левую сторону треугольника:'));
         let cTriangle = Number(input('Введите правую сторону треугольника:'));
         if (aTriangle + bTriangle > cTriangle && aTriangle + cTriangle > bTriangle && cTriangle + bTriangle > aTriangle){
