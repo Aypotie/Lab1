@@ -12,6 +12,7 @@ function isosceles(a, b, c) {
         return false;
     }
 }
+//комментариииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииййййййййййййййййййййй
 module.exports.perimeter = perimeter;
 module.exports.area = area;
 module.exports.isosceles = isosceles;
