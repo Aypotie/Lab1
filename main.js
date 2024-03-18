@@ -30,4 +30,5 @@ while (true) {
     } else if (choice == 3){
         break;
     }
+    console.log('Hello');
 }
